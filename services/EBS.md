@@ -60,3 +60,6 @@ Storage volume for EC2 instances
 - Attach the same EBS volume to multiple EC2 in the same AZ
 - **Up to 16 EC2 Instances at a time**
 - Makes it easier for you to achieve **higher application availability** in clustered Linux applications that manage **concurrent write operations**
+
+
+#### [Click to check de difference between EBS, EFS and Instance Store](EFS.md#ebs-vs-efs-vs-instance-store)
