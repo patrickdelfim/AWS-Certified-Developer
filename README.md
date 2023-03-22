@@ -74,6 +74,7 @@ Preparation and study material to become AWS Certified Developer Associate
 - [IAM](services/IAM.md)
 - [EC2](services/EC2.md)
 - [EBS](services/EBS.md)
+- [EFS](services/EFS.md)
 - [ELB](services/ELB.md)
 - [Route 53](services/Route53.md)
 - [RDS](services/RDS.md)
