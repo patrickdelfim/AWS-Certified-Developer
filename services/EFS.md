@@ -1,5 +1,5 @@
-# Amazon Elastic Block Store (EBS)
-Storage volume for EC2 instances
+# Amazon Elastic File System (EFS)
+Serverless, fully elastic file storage
 
 ## Useful links
 - [AWS - EFS FAQ](https://aws.amazon.com/efs/faq/)
