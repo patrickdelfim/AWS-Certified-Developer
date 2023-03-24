@@ -76,6 +76,7 @@ Preparation and study material to become AWS Certified Developer Associate
 - [EBS](services/EBS.md)
 - [EFS](services/EFS.md)
 - [ELB](services/ELB.md)
+- [ASG](services/ASG.md)
 - [Route 53](services/Route53.md)
 - [RDS](services/RDS.md)
 - [ElastiCache](services/ElastiCache.md) 
